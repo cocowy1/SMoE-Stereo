@@ -20,7 +20,7 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 </p>
 
 
-## 😇  Robust Vision Challenge (RVC) Benchmarkdr_
+## 😇  Robust Vision Challenge (RVC) Benchmark
 ![RVC](media/RVC.jpg)
 
 
