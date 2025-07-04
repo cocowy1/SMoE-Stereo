@@ -1,5 +1,5 @@
 # 🚀 SMoE-Stereo (ICCV 2025) 🚀 
-### [**ICCV 2025**] 🌟 **Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**
+### [**ICCV 2025**] 🌟🌟 **Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**
 
 ##  🌼 Abstract
 Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective-MoE design to unlock robust stereo matching at minimal computational cost. Its standout features are 😄 :
