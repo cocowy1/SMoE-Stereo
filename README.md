@@ -17,7 +17,7 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 ![RVC](media/RVC.jpg)
 
 
-##  Parameter-efficient Finetuning Methods (PEFT) && VFM backbones
+## 🎇 Parameter-efficient Finetuning Methods (PEFT) && VFM backbones
 Exciting Update! Our framework now comprehensively supports mainstream PEFT strategies for stereo matching, including:
 * Visual Prompt Tuning ([ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930696.pdf))
 * LoRA  ([ICLR 2022](https://arxiv.org/abs/2106.09685))
