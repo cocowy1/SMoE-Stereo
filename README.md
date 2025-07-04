@@ -2,8 +2,8 @@
 [ICCV 2025] 🌟🌟 Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts
 
 ##  🌼 Abstract
-Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective-SMoE design to unlock robust stereo matching at minimal computational cost. Its standout features are 😄 :
-1. Our SMoE dynamically selects the most suitable experts for each input and thereby adapts to varying input characteristics, allowing it to adapt seamlessly to diverse “in-the-wild” scenes and domain shifts.
+Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective-MoE design to unlock robust stereo matching at minimal computational cost. Its standout features are 😄 :
+1. Our SMoE dynamically selects the ``most suitable experts'' for each input and thereby adapts to varying input characteristics, allowing it to adapt seamlessly to diverse “in-the-wild” scenes and domain shifts.
   
 2. Unlike existing stereo matching methods that rely on rigid, sequential processing pipelines for all inputs, SMoE-Stereo intelligently prioritizes computational resources by selectively engaging only the most relevant experts for simpler scenes. This adaptive architecture optimally balances accuracy and processing speed according to available resources.
 
