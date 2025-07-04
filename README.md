@@ -15,6 +15,9 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 - [x] upload the ViT-small weights of SMoEStereo.
 - [x] add the KITTI demo.mp4.  
 
+##  📝 Framework
+![framework](media/framework.png)
+
 
 ##  📝 Zero-shot performance
 ![teaser](media/teaser.png)
