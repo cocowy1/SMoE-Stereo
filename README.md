@@ -53,7 +53,7 @@ We use RAFT-Stereo as our backbone and replace its feature extractor with VFMs, 
 ![framework](media/framework.png)
 
 ## Flexible Selective Property
-Our MoE modules and the experts within each 108 MoE can be selectively activated to adapt to different input characteristics, facilitate scene-specific adaptation, enabling robust stereo matching across diverse real-world scenarios.
+Our MoE modules and the experts within each MoE layer can be selectively activated to adapt to different input characteristics, facilitate scene-specific adaptation, enabling robust stereo matching across diverse real-world scenarios.
 ![framework](media/selection.png)
 
 ## ⚙️ Installation
