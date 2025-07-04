@@ -18,7 +18,7 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 
 ##  📝 Benchmarks performance
 ![teaser](media/teaser.png)
-![benchmark](media/benchmark.png)
+![framework](media/framework.png)
 Comparisons with state-of-the-art stereo methods across five of the most widely used benchmarks.
 
 
