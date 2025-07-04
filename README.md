@@ -10,6 +10,10 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 * Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards.
 ## 
 
+## ✅ TODO List
+
+- [x] upload the ViT-small weights of SMoEStereo.
+- [x] add the KITTI demo.mp4.  
 
 
 ##  📝 Benchmarks performance
