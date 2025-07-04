@@ -40,10 +40,11 @@ All these models can now leverage our PEFT implementation for enhanced performan
 - [x] add SMoE-IGEV-backbone.  
 - [x] add the KITTI demo.mp4.  
 
-##  📝 Framework
+##  📝 Our Framework
 ![framework](media/framework.png)
 
-
+## Flexible Selective Property
+![framework](media/image_selection.png)
 
 
 ## ⚙️ Installation
