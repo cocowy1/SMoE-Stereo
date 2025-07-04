@@ -48,11 +48,11 @@ parser.add_argument('--vfm_size', default='vitl', choices=["vitb", "vits", "vitl
 - [x] add SMoE-IGEV-backbone.  
 - [x] add the KITTI demo.mp4.  
 
-##  📝 Our Framework
+## 😎 Our Framework
 We use RAFT-Stereo as our backbone and replace its feature extractor with VFMs, while the remaining structures are unchanged. 
 ![framework](media/framework.png)
 
-## Flexible Selective Property
+## 💪 Flexible Selective Property
 Our MoE modules and the experts within each MoE layer can be selectively activated to adapt to different input characteristics, facilitate scene-specific adaptation, enabling robust stereo matching across diverse real-world scenarios.
 ![framework](media/selection.png)
 
