@@ -14,7 +14,7 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 ![teaser](media/teaser.png)
 
 ## 👀 Enjoyable Inference Efficiency 
-![RVC](media/efficiency.jpg)
+![RVC](media/efficiency.jpg|50%)
 
 ## 😇  Robust Vision Challenge (RVC) Benchmark
 ![RVC](media/RVC.jpg)
