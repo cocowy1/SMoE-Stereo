@@ -17,7 +17,7 @@ Exciting Update! Our framework now comprehensively supports mainstream PEFT stra
 * Adapter Tuning 
 * MoE
 * Our SMoE strategy
-* 
+
 Additionally, the framework is compatible with multiple leading vision foundation models (VFMs):
 * DepthAnythingV2 (DAMV2)
 * DepthAnything (DAM)
