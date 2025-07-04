@@ -1,6 +1,13 @@
 # 🚀 SMoE-Stereo (ICCV 2025) 🚀 
 [ICCV 2025] 🌟🌟 Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts
 
+##  📝 Zero-shot performance
+![teaser](media/teaser.png)
+
+## 😇  RVC Benchmark
+![RVC](media/RVC.jpg)
+
+
 ##  🌼 Abstract
 Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective-MoE design to unlock robust stereo matching at minimal computational cost. Its standout features are 😄 :
 * Our SMoE dynamically selects the **most suitable experts** for each input and thereby adapts to varying input characteristics, allowing it to adapt seamlessly to diverse “in-the-wild” scenes and domain shifts.
@@ -35,11 +42,6 @@ All these models can now leverage our PEFT implementation for enhanced performan
 ![framework](media/framework.png)
 
 
-##  📝 Zero-shot performance
-![teaser](media/teaser.png)
-
-## 😇  RVC Benchmark
-![RVC](media/RVC.jpg)
 
 
 ## ⚙️ Installation
