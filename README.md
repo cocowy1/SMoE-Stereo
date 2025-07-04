@@ -110,7 +110,7 @@ The model weights can be placed in the ckpt folders.
 
 ## ✈️ Evaluation
 
-To evaluate the zero-shot performance of MonSter on Scene Flow, KITTI, ETH3D, vkitti, DrivingStereo, or Middlebury, run
+To evaluate the zero-shot performance of SMoE-Stereo on Scene Flow, KITTI, ETH3D, vkitti, DrivingStereo, or Middlebury, run
 
 ```Shell
 python evaluate_stereo.py --restore_ckpt ./pretrained/sceneflow.pth --dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
