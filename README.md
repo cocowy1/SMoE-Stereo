@@ -7,7 +7,7 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
   
 2. Unlike existing stereo matching methods that rely on rigid, sequential processing pipelines for all inputs, SMoE-Stereo intelligently prioritizes computational resources by selectively engaging only **the most relevant MoEs** for simpler scenes. This adaptive architecture optimally balances accuracy and processing speed according to available resources.
 
-3. Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards. The system demonstrates superior zero-shot generalization capabilities and enjoys computational efficiency compared to current Vision Foundation Model (VFM) based approaches.
+3. Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards.
 ## 
 
 
