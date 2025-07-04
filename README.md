@@ -16,10 +16,11 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 - [x] add the KITTI demo.mp4.  
 
 
-##  📝 Benchmarks performance
+##  📝 Zero-shot performance
 ![teaser](media/teaser.png)
-![framework](media/framework.png)
-Comparisons with state-of-the-art stereo methods across five of the most widely used benchmarks.
+
+## 😇  RVC Benchmark
+![RVC](media/RVC.jpg)
 
 
 ## ⚙️ Installation
