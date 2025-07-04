@@ -58,9 +58,8 @@ pip install gradio==4.29.0
 
 | Model      |                                               Link                                                |
 |:----:|:-------------------------------------------------------------------------------------------------:|
-|ETH3D | [Download 🤗](https://huggingface.co/cjd24/MonSter/resolve/main/eth3d.pth?download=true)|
-|sceneflow | [Download 🤗](https://huggingface.co/cjd24/MonSter/resolve/main/sceneflow.pth?download=true)|
-|mix_all (mix of all datasets) | [Download 🤗](https://huggingface.co/cjd24/MonSter/resolve/main/mix_all.pth?download=true)|
+|sceneflow | [Download  ][Google Drive]| (https://drive.google.com/drive/folders/1UoY7Yam0MA2qUI1GIVll0owH4tMTpzw7?usp=drive_link)|
+|RVC (mix of all training datasets) [Google Drive]| [Download ](https://drive.google.com/drive/folders/1UoY7Yam0MA2qUI1GIVll0owH4tMTpzw7?usp=drive_link)|
 
 The mix_all model is trained on all the datasets mentioned above, which has the best performance on zero-shot generalization.
 
