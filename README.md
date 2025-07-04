@@ -10,10 +10,10 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 
 * Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards.
 
-##  📝 Zero-shot performance
+##  📝 Zero-shot performance on standard Stereo Benchmarks
 ![teaser](media/teaser.png)
 
-## 👀 Enjoyable Inference Efficiency 
+## 👀 Zero-shot on Adverse Weather Condition and Enjoyable Inference Efficiency 
 <p>
   <img src="media/dr_weather.jpg" alt="dr_weather.jpg" width="500" height="250"  />
   <img src="media/efficiency.jpg" alt="efficiency" width="500" height="200" />
