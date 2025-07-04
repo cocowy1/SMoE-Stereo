@@ -9,12 +9,25 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 
 * Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards.
 
-##  Support 
-
+##  Parameter-efficient Finetuning Methods (PEFT) && VFM backbones
+Exciting Update! Our framework now comprehensively supports mainstream PEFT strategies for stereo matching, including:
+* Visual Prompt Tuning
+* LoRA
+* Adapter
+* Adapter Tuning
+* MoE
+* Our SMoE strategy
+* 
+Additionally, the framework is compatible with multiple leading vision foundation models (VFMs):
+* DepthAnythingV2 (DAMV2)
+* DepthAnything (DAM)
+* SegmentAnything (SAM)
+* DINOV2
+All these models can now leverage our PEFT implementation for enhanced performance and flexibility."
 
 ## ✅ TODO List
 
-- [x] Upload the ViT-small weights of SMoEStereo.
+- [x] Upload the ViT-small weights of SMoE-Stereo.
 - [x] add SMoE-IGEV-backbone.  
 - [x] add the KITTI demo.mp4.  
 
