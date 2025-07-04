@@ -1,5 +1,5 @@
 # 🚀 SMoE-Stereo (ICCV 2025) 🚀 
-[ **ICCV 2025 **] 🌟🌟  **Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**
+[ **ICCV 2025**] 🌟🌟🌟  **Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**
 
 
 ##  🌼 Abstract
