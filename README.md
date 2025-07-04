@@ -14,8 +14,8 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 
 ## 👀 Zero-shot on Adverse Weather Conditions and Enjoyable Inference Efficiency 
 <p>
-  <img src="media/dr_weather.jpg" alt="dr_weather.jpg" width="460" height="220"  />
-  <img src="media/efficiency.jpg" alt="efficiency" width="460" height="200" />
+  <img src="media/dr_weather.jpg" alt="dr_weather.jpg" width="450" height="220"  />
+  <img src="media/efficiency.jpg" alt="efficiency" width="450" height="200" />
 </p>
 
 
@@ -39,7 +39,7 @@ Additionally, the framework is compatible with multiple leading vision foundatio
 * DINOV2([DINOV2](https://arxiv.org/abs/2304.07193))
 
 All these models can now leverage our PEFT implementation for enhanced performance and flexibility.
-Please choose the model variants you want!!!
+Please choose the model variants you want !!!
 
 Below are Examples:
 ```
