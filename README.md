@@ -1,14 +1,13 @@
 # 🚀 SMoE-Stereo (ICCV 2025) 🚀 
 ### [**ICCV 2025**] 🌟🌟🌟  **Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**
 
-
 ##  🌼 Abstract
 Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective-MoE design to unlock robust stereo matching at minimal computational cost. Its standout features are 😄 :
 * Our SMoE dynamically selects the **most suitable experts** for each input and thereby adapts to varying input characteristics, allowing it to adapt seamlessly to diverse “in-the-wild” scenes and domain shifts.
   
 * Unlike existing stereo matching methods that rely on rigid, sequential processing pipelines for all inputs, SMoE-Stereo intelligently prioritizes computational resources by selectively engaging only **the most relevant MoEs** for simpler scenes. This adaptive architecture optimally balances accuracy and processing speed according to available resources.
 
-* Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards.
+* Remarkably, despite being trained exclusively on standard datasets (KITTI 2012/2015, Middlebury, and ETH3D training splits) without any additional data, SMoE-Stereo has achieved top ranking on the Robust Vision Challenge (RVC) leaderboards.
 
 ##  📝 Zero-shot performance on Standard Stereo Benchmarks
 ![teaser](media/teaser.png)
@@ -42,7 +41,7 @@ Additionally, the framework is compatible with multiple leading vision foundatio
 All these models can now leverage our PEFT implementation for enhanced performance and flexibility.
 Please choose the model variants you want!!!
 
-Below is Examples:
+Below are Examples:
 ```
 parser.add_argument('--peft_type', default='smoe', choices=["lora", "smoe", "adapter", "tuning", "vpt", "ff"], type=str)
 parser.add_argument('--vfm_type', default='damv2', choices=["sam", "dam", "damv2", "dinov2"], type=str)
