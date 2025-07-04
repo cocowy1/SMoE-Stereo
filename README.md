@@ -14,8 +14,8 @@ Our SMoE-Stereo framework fuses Vision Foundation Models (VFMs) with a Selective
 
 ## 👀 Zero-shot on Adverse Weather Conditions and Enjoyable Inference Efficiency 
 <p>
-  <img src="media/dr_weather.jpg" alt="dr_weather.jpg" width="500" height="250"  />
-  <img src="media/efficiency.jpg" alt="efficiency" width="500" height="200" />
+  <img src="media/dr_weather.jpg" alt="dr_weather.jpg" width="480" height="250"  />
+  <img src="media/efficiency.jpg" alt="efficiency" width="480" height="200" />
 </p>
 
 
