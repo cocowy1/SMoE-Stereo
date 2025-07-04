@@ -27,11 +27,12 @@ Exciting Update! Our framework now comprehensively supports mainstream PEFT stra
 * Our SMoE strategy
 
 Additionally, the framework is compatible with multiple leading vision foundation models (VFMs):
-* DepthAnythingV2 (DAMV2)
-* DepthAnything (DAM)
-* SegmentAnything (SAM)
-* DINOV2
-All these models can now leverage our PEFT implementation for enhanced performance and flexibility."
+* DepthAnything ([DAM](https://arxiv.org/abs/2401.10891))
+* DepthAnythingV2 ([DAMV2](https://arxiv.org/abs/2406.09414))
+* SegmentAnything ([SAM](https://arxiv.org/abs/2304.02643))
+* DINOV2([DINOV2](https://arxiv.org/abs/2304.07193))
+
+All these models can now leverage our PEFT implementation for enhanced performance and flexibility.
 
 ## ✅ TODO List
 
