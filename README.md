@@ -53,12 +53,6 @@ pip install gradio==4.29.0
 * [KITTI](https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo)
 * [ETH3D](https://www.eth3d.net/datasets)
 * [Middlebury](https://vision.middlebury.edu/stereo/submit3/)
-* [TartanAir](https://github.com/castacks/tartanair_tools)
-* [CREStereo Dataset](https://github.com/megvii-research/CREStereo)
-* [FallingThings](https://research.nvidia.com/publication/2018-06_falling-things-synthetic-dataset-3d-object-detection-and-pose-estimation)
-* [InStereo2K](https://github.com/YuhuaXu/StereoDataset)
-* [Sintel Stereo](http://sintel.is.tue.mpg.de/stereo)
-* [HR-VS](https://drive.google.com/file/d/1SgEIrH_IQTKJOToUwR1rx4-237sThUqX/view)
 
 ## ✈️ Model weights
 
