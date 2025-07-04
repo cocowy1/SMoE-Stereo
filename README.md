@@ -44,7 +44,7 @@ All these models can now leverage our PEFT implementation for enhanced performan
 ![framework](media/framework.png)
 
 ## Flexible Selective Property
-![framework](media/image_selection.png)
+![framework](media/selection.png)
 
 ## ⚙️ Installation
 * NVIDIA RTX a6000
