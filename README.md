@@ -34,7 +34,8 @@ Additionally, the framework is compatible with multiple leading vision foundatio
 
 All these models can now leverage our PEFT implementation for enhanced performance and flexibility.
 Please choose the model variants you want!!!
-Example:
+
+Below is Examples:
 ```
 parser.add_argument('--peft_type', default='smoe', choices=["lora", "smoe", "adapter", "tuning", "vpt", "ff"], type=str)
 parser.add_argument('--vfm_type', default='damv2', choices=["sam", "dam", "damv2", "dinov2"], type=str)
