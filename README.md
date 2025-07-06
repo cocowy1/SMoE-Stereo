@@ -113,11 +113,11 @@ The model weights can be placed in the ckpt folders.
 To evaluate the zero-shot performance of SMoE-Stereo on Scene Flow, KITTI, ETH3D, vkitti, DrivingStereo, or Middlebury, run
 
 ```Shell
-python evaluate_stereo.py --restore_ckpt ./pretrained/sceneflow.pth --dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
+python evaluate_stereo.py --resume ./pretrained/sceneflow.pth --eval_dataset *(select one of ["eth3d", "kitti", "middlebury", "robust_weather",  "robust"])
 ```
 or use the model trained on all datasets, which is better for zero-shot generalization.
 ```Shell   
-python evaluate_stereo.py --restore_ckpt ./pretrained/mix_all.pth --dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
+python evaluate_stereo.py --restore_ckpt ./pretrained/mix_all.pth --eval_dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
 ```
 
 
