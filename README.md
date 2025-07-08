@@ -28,7 +28,7 @@ Exciting Update! Our framework now comprehensively supports mainstream PEFT stra
 * LoRA  ([ICLR 2022](https://arxiv.org/abs/2106.09685))
 * AdapterFormer ([NeuralPS 2022](https://arxiv.org/abs/2205.13535))
 * Adapter Tuning ([ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05841.pdf))
-* MoE
+* LoRA MoE
 * Our SMoE strategy
 
 Additionally, the framework is compatible with multiple leading vision foundation models (VFMs):
