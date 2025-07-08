@@ -117,7 +117,7 @@ python evaluate_stereo.py --resume ./pretrained/damv2_sceneflow.pth --eval_datas
 ```
 or use the model trained on all datasets, which is better for zero-shot generalization.
 ```Shell   
-python evaluate_stereo.py --restore_ckpt ./pretrained/SMoEStereo_RVC.pth --eval_dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
+python evaluate_stereo.py --resume ./pretrained/SMoEStereo_RVC.pth --eval_dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
 ```
 
 
