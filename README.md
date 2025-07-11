@@ -131,7 +131,7 @@ If you find our work useful in your research, please consider citing our paper:
   journal={arXiv preprint arXiv:2507.04631},
   year={2025}
 }
-
+```
 
 
 # Acknowledgements
