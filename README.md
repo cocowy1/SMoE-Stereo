@@ -118,6 +118,20 @@ or use the model trained on all datasets, which is better for zero-shot generali
 ```Shell   
 python evaluate_stereo.py --resume ./pretrained/SMoEStereo_RVC.pth --eval_dataset *(select one of ["eth3d", "kitti", "sceneflow", "vkitti", "driving"])
 ```
+## Citation
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+
+
+@article{cheng2025monster,
+  title={learning robust stereo matching in the wild with selective mixture-of-experts},
+  author={Yun Wang, Longguang Wang, Chenghao Zhang, Yongjian Zhang, Zhanjie Zhang, Ao Ma, Chenyou Fan, Tin Lun Lam, Junjie Hu},
+  journal={arXiv preprint arXiv:2507.04631},
+  year={2025}
+}
+
 
 
 # Acknowledgements
