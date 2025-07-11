@@ -125,7 +125,7 @@ If you find our work useful in your research, please consider citing our paper:
 ```bibtex
 
 
-@article{cheng2025monster,
+@article{wang2025moe,
   title={learning robust stereo matching in the wild with selective mixture-of-experts},
   author={Yun Wang, Longguang Wang, Chenghao Zhang, Yongjian Zhang, Zhanjie Zhang, Ao Ma, Chenyou Fan, Tin Lun Lam, Junjie Hu},
   journal={arXiv preprint arXiv:2507.04631},
